@@ -1,0 +1,109 @@
+body {
+	margin:0;
+}
+
+.header {
+	width:100%;
+	height:100px;
+	background-color:#aed8e2;
+}
+
+.two {
+	width:100%;
+	height:220px;
+}
+
+.three {
+	width:100%;
+	height:290px;
+}
+
+.four {
+	width:100%;
+	height:200px;
+}
+
+.container {
+	width:800px;
+	height:100%;
+	margin:0 auto;
+	position:relative;
+	border-bottom:1px solid #aed8e2;
+}
+
+.heading_box {
+	margin:0px auto;
+	text-align: center;
+	color:#fff;
+	font-size: 30px;
+	font-family:arial;
+	padding-top:30px;
+	width:50%;
+}
+
+.problem-container {
+	position:relative;
+	float:left;
+	padding-left:50px;
+}
+
+.problem_title {
+	color:#000;
+	font-size:24px;
+	font-family:arial;
+	position:relative;
+	padding-top:15px;
+	padding-bottom:10px;
+	display:block;
+}
+
+.problem_text {
+	color:#000;
+	font-size:18px;
+	font-family:arial;
+	display:block;
+	padding-bottom:30px;
+}
+
+input {
+	height:25px;
+	width:130px;
+	background-color:#fff;
+	border:1px solid #000;
+	font-size:14px;
+	font-family:arial;
+	padding-left:5px;
+	margin-right:15px;
+	display:inline;
+}
+
+input:focus {
+	outline:none;
+}
+
+button {
+	height:25px;
+	background-color:#aed8e2;
+	border:1px solid #aed8e2;
+	font-weight:bold;
+	cursor:pointer;
+	position:relative;
+}
+
+button:focus {
+	outline:none;
+	background-color:#59b9d1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
