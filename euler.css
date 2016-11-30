@@ -20,7 +20,7 @@ body {
 
 .four {
 	width:100%;
-	height:200px;
+	height:50px;
 }
 
 .container {
@@ -29,6 +29,13 @@ body {
 	margin:0 auto;
 	position:relative;
 	border-bottom:1px solid #aed8e2;
+}
+
+.container1 {
+	width:800px;
+	height:100%;
+	margin:0 auto;
+	position:relative;
 }
 
 .heading_box {
@@ -55,6 +62,7 @@ body {
 	padding-top:15px;
 	padding-bottom:10px;
 	display:block;
+	font-weight:bold;
 }
 
 .problem_text {
@@ -92,7 +100,70 @@ button {
 
 button:focus {
 	outline:none;
+}
+
+button:hover {
 	background-color:#59b9d1;
+}
+
+.result {
+	font-family:arial;
+	font-size:14px;
+	font-weight:bold;
+	position:relative;
+	display:inline;
+	margin-left:20px;
+	margin-right:10px;
+	top:2px;
+}
+
+#result1 {
+	height:25px;
+	position:relative;
+	display:inline;
+	font-family:arial;
+	font-size:14px;
+	top:2px;
+	text-decoration: underline;
+}
+
+#result2 {
+	height:25px;
+	position:relative;
+	display:inline;
+	font-family:arial;
+	font-size:14px;
+	top:2px;
+	text-decoration: underline;
+}
+
+#result3 {
+	height:25px;
+	position:relative;
+	display:inline;
+	font-family:arial;
+	font-size:14px;
+	top:2px;
+	text-decoration: underline;
+}
+
+#name {
+	height:25px;
+	background-color:#aed8e2;
+	margin-top:17px;
+	text-align: center;
+	color:#000;
+	font-size: 14px;
+	font-family:arial;
+	padding-top:10px;
+
+}
+
+.container2 {
+	width:800px;
+	height:100%;
+	margin:0 auto;
+	position:relative;
 }
 
 
